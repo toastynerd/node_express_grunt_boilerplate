@@ -2,7 +2,7 @@ Toasty Boilerplate
 ===========================
 A Toasty fresh boiler plate designed for use with a client
 side javascript framework. It contains:
-  * A Grunt/a Gruntfile
+  * Grunt/a Gruntfile
   * Express with watch
   * Sass
   * Mocha/Chai for testing
