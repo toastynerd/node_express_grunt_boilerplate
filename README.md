@@ -9,4 +9,4 @@ side javascript framework. It contains:
   * Super Agent for testing
   * Browserify
   * Bower
-  * JSHint, to keeo me honest
+  * JSHint, to keep me honest
